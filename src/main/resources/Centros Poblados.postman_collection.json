@@ -4,8 +4,20 @@
 		"name": "Centros Poblados",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "18931003"
+<<<<<<< Updated upstream
 	},
 
+=======
+		{
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"v1",
+						"population-centers"
+					]
+				}
+>>>>>>> Stashed changes
 			},
 			"response": []
 		},
